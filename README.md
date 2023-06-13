@@ -9,9 +9,9 @@ Functionality:
 4. Confirmation of successful registration and login to the user account.
 
 Technologies and Tools:
-Programming Language: Java
-Testing Framework: Selenium
-Build System: Maven 
+1. Programming Language: Java
+2. Testing Framework: Selenium
+3. Build System: Maven 
 
 This repository is intended for demonstration purposes and can serve as a starting point for developing automated registration tests on eBay or other similar website.
 
